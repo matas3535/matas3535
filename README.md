@@ -3,7 +3,7 @@
   
 ### matas
 
-### fluent in cpp, lua, python, php, javascript, powershell
+### fluent in cpp, lua, python, php, javascript, powershell, css, html
 ### semi fluent in cs
 ### learning asm
   
