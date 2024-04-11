@@ -3,8 +3,8 @@
   
 ### matas
 
-### fluent in cpp, lua, python, php, javascript, powershell, css, html
-### semi fluent in cs
+### fluent in cpp, cs, python, javascript, nodejs, lua, powershell, css, html, php
+
 ### learning asm
   
 &nbsp;<p align="center">![](https://komarev.com/ghpvc/?username=matt3535&color=blueviolet)<br>
