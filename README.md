@@ -1,58 +1,30 @@
-<br clear="both">
+<h2> Languages </h2>
 
-<h6 align="center">Contacts</h6>
-
-###
-
-<div align="center">
-  <a href="https://discord.com/users/131100342850027520" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="36" height="30" alt="discord logo"  />
-  </a>
-  <a href="https://www.youtube.com/@matas3535" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="36" height="30" alt="youtube logo"  />
-  </a>
+<div align="left">
+  
+  <img src="https://img.shields.io/badge/C-03599c?style=for-the-badge&logo=c&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C++-004482?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C%23-68217a?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Java-bd2c2e?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Javascript-555555?style=for-the-badge&logo=javascript&logoColor=f0db4f"/>
+  <img src="https://img.shields.io/badge/Typescript-007acc?style=for-the-badge&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Lua-000080?style=for-the-badge&logo=lua&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Node-57a645?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Php-777bb3?style=for-the-badge&logo=php&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776ab?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Html-e34f26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Css-663399?style=for-the-badge&logo=css&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Perl-00709d?style=for-the-badge&logo=perl&logoColor=white"/>
+  
 </div>
 
-###
+<h2> Socials </h2>
 
-<br clear="both">
-
-<h6 align="center">Languages</h6>
-
-###
-
-<br clear="both">
-
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-plain.svg" height="30" alt="c logo"  />
-  <img width="6" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-plain.svg" height="30" alt="cplusplus logo"  />
-  <img width="6" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-plain.svg" height="30" alt="csharp logo"  />
-  <img width="6" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain.svg" height="30" alt="java logo"  />
-  <img width="6" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="30" alt="javascript logo"  />
-  <img width="6" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" height="30" alt="lua logo"  />
-  <img width="6" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs logo"  />
-  <img width="6" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="30" alt="php logo"  />
-  <img width="6" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" height="30" alt="python logo"  />
-  <img width="6" />
-  <img src="https://skillicons.dev/icons?i=powershell" height="30" alt="powershell logo"  />
-  <img width="6" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" height="30" alt="typescript logo"  />
-  <img width="6" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="6" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="6" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/perl/perl-plain.svg" height="30" alt="css3 logo"  />
+<div align="left">
+  
+  [<img src="https://img.shields.io/badge/Discord-5865f2?style=for-the-badge&logo=discord&logoColor=white"/>](https://discord.com/users/131100342850027520)
+  [<img src="https://img.shields.io/badge/Youtube-ff0000?style=for-the-badge&logo=youtube&logoColor=white"/>](https://www.youtube.com/@matas3535)
+  
 </div>
 
-###
-
-&nbsp;<p align="center">![](https://komarev.com/ghpvc/?username=matt3535&color=blueviolet)<br>
+&nbsp;<p align="center">![](https://komarev.com/ghpvc/?username=matt3535&color=blueviolet)
