@@ -5,6 +5,7 @@
   <img src="https://img.shields.io/badge/C-03599c?style=for-the-badge&logo=c&logoColor=white"/>
   <img src="https://img.shields.io/badge/C++-004482?style=for-the-badge&logo=cplusplus&logoColor=white"/>
   <img src="https://img.shields.io/badge/C%23-68217a?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Assembly-3056bf?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Java-bd2c2e?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Javascript-555555?style=for-the-badge&logo=javascript&logoColor=f0db4f"/>
   <img src="https://img.shields.io/badge/Typescript-007acc?style=for-the-badge&logo=typescript&logoColor=white"/>
