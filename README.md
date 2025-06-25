@@ -1,7 +1,8 @@
 <h2> Languages </h2>
 
 <div align="left">
-  
+
+  <img src="https://img.shields.io/badge/Rust-e13714?style=for-the-badge&logo=rust&logoColor=white"/>
   <img src="https://img.shields.io/badge/C-03599c?style=for-the-badge&logo=c&logoColor=white"/>
   <img src="https://img.shields.io/badge/C++-004482?style=for-the-badge&logo=cplusplus&logoColor=white"/>
   <img src="https://img.shields.io/badge/C%23-68217a?style=for-the-badge"/>
